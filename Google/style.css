@@ -1,0 +1,85 @@
+
+
+
+    .searchbtn {
+
+        background-color:rgb(234, 234, 234);
+        width: 90%;
+        margin:auto;
+        text-align: center;
+        padding-bottom: 17px;
+        
+    }
+
+
+
+    .alldiv{
+
+    margin-left: 70px;
+    } 
+
+
+
+    .card {
+
+        margin: 1px 1px 10px;
+        float: left;
+        text-align: center;
+        align-items: center;
+        text-decoration: none;
+        height:70px;
+
+                
+
+
+    }
+
+   
+    .card1 {
+        
+        
+        text-align: center;
+        width: 34%;
+
+
+
+
+    }
+
+    
+
+    
+
+    .card2{
+
+        padding-top: 6px;
+        height: 64px;
+        width: 23%;
+
+
+        
+           
+
+    }
+
+    .card3{
+
+        width: 37.5%;
+        word-wrap:break-word;
+
+
+      
+        
+
+    }
+
+    .bgcolor {
+
+        background: paleturquoise;
+    }
+
+    .fs {
+
+        font-size: 13px;
+
+    }
